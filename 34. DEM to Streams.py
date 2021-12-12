@@ -32,13 +32,20 @@ strOrder = 'Strahler'
 
 #fill raster
 fillRaster = Fill(elvRaster)
+arcpy.AddMessage('\n\n')
+arcpy.AddMessage('1). Done Raster Fill')
+
 
 
 #flow direction analysis
 flowdirs = FlowDirection(fillRaster)
+arcpy.AddMessage('\n\n')
+arcpy.AddMessage('2). Done Flow Direction Analysis')
 
 #flow accumulation analysis
 flowaccurast = FlowAccumulation(flowdirs)
+arcpy.AddMessage('\n\n')
+arcpy.AddMessage('3). Done Flow Accumulation')
 
 
 threshold = 2000
@@ -47,13 +54,18 @@ threshold = 2000
 
 myQuery = 'Value < 2000'
 chanRaster = SetNull(flowaccurast,"1",myQuery)
+arcpy.AddMessage('\n\n')
+arcpy.AddMessage('4). Done Stream Analysis')
 
 
 #stream analysis
 strRaster = StreamOrder(chanRaster,flowdirs,strOrder)
+arcpy.AddMessage('\n\n')
+arcpy.AddMessage('5). Done Stream Order Analysis')
 
 
 #conversion from raster to polyline feature
 arcpy.RasterToPolyline_conversion(strRaster,polyfile)
-arcpy.GetMessages()
+arcpy.AddMessage('\n\n')
+arcpy.AddMessage('6). Done Polyline Analysis')
 
