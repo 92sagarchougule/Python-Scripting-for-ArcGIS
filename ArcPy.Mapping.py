@@ -3,7 +3,6 @@ from arcpy import env
 env.workspace = r'D:\Other\Practice'
 mxd = arcpy.mapping.MapDocument('Current')
 mxd.author = "Sagar Chougule"
-mxd.tito
 mxd.title = "Electricity Mapping"
 mxd.description = "The Python programming for analysis and mapping"
 mxd.summary = "Python and ArcGIS"
