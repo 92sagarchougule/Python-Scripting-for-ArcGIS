@@ -30,12 +30,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, **[contact](sagar4gis@gmail.com)**
 
-## Roadmap
-
-- **Version 1.1:** Enhance drawing tools for better user interaction.
-- **Version 1.2:** Integrate more spatial analysis functions.
-- **Version 1.3:** Improve UI/UX for easier navigation and data management.
-
 ## Authors
 
 - **Sagar Chougule** - https://github.com/92sagarchougule/
