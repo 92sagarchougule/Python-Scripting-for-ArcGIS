@@ -8,7 +8,7 @@ ArcGIS applications written with ArcPy benefit from the development of additiona
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Clone this repository:**
 
    ```bash
    git clone https://github.com/92sagarchougule/Python-Scripting-for-ArcGIS.git
