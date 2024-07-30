@@ -1,4 +1,4 @@
-## Python Scripting for ArcGIS (ArcPy = ArcGIS + Python)
+## Python Scripting for ArcGIS (ArcPy)
 
 ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 This package provides a rich and native Python experience offering code completion (type a keyword and a dot to get a pop-up list of properties and methods supported by that keyword; select one to insert it) and reference documentation for each function, module, and class.
