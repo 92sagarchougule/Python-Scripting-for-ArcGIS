@@ -24,7 +24,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Built using Python, PostgreSQL, PostGIS, OpenLayers, and other open-source technologies.
+- Built using ArcGIS, ArcGIS Pro, Python, ArcPy.
 
 ## Support
 
