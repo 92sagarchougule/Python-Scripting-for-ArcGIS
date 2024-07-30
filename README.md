@@ -13,3 +13,34 @@ ArcGIS applications written with ArcPy benefit from the development of additiona
    ```bash
    git clone https://github.com/92sagarchougule/Python-Scripting-for-ArcGIS.git
    cd repository
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Built using Python, PostgreSQL, PostGIS, OpenLayers, and other open-source technologies.
+
+## Support
+
+For support, **[contact](sagar4gis@gmail.com)**
+
+## Roadmap
+
+- **Version 1.1:** Enhance drawing tools for better user interaction.
+- **Version 1.2:** Integrate more spatial analysis functions.
+- **Version 1.3:** Improve UI/UX for easier navigation and data management.
+
+## Authors
+
+- **Sagar Chougule** - https://github.com/92sagarchougule/
+
+
+## Feedback
+
+Feel free to send feedback or report issues **[here](https://github.com/92sagarchougule/Python-Scripting-for-ArcGIS/issues.)**
