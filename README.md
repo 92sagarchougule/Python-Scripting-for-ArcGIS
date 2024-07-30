@@ -12,7 +12,7 @@ ArcGIS applications written with ArcPy benefit from the development of additiona
 
    ```bash
    git clone https://github.com/92sagarchougule/Python-Scripting-for-ArcGIS.git
-   cd repository
+   cd Python-Scripting-for-ArcGIS
 
 ## Contributing
 
