@@ -1,5 +1,5 @@
 #Calculate_Area.py
-#Developer: Sagar Chougule
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 #Tool to calculate Area
 
 import arcpy

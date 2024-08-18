@@ -1,5 +1,4 @@
-#Developer Name: Sagar Chougule
-#Email: 92chougulesagar@gmail.com
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 
 import arcpy
 from arcpy import env

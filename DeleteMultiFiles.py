@@ -1,3 +1,6 @@
+
+#Author: Sagar Chougule / sagar4gis@gmail.com 
+
 help(arcpy)
 
 arcpy.env.workspace = r'D:\Delete Data'

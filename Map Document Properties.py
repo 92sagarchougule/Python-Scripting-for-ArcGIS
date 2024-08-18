@@ -1,3 +1,5 @@
+#Author: Sagar Chougule / sagar4gis@gmail.com 
+
 import arcpy
 
 myMxd = arcpy.mapping.MapDocument('Current')

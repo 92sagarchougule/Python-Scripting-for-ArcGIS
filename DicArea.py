@@ -1,5 +1,7 @@
 # areaMedian.py
 #areaMedian.py
+#Author: Sagar Chougule / sagar4gis@gmail.com 
+
 import arcpy, numpy
 fc = r'D:\DataforArcObject\Delhi.gdb\Dataset\Building'
 idField = 'OBJECTID_1'

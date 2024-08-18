@@ -1,6 +1,5 @@
 #Code for Select Mxd filder and get each mxd layers
-#Developer: Sagar Chougule
-#Contact : 92chougulesagar@gmail.com, https://github.com/92sagarchougule
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 
 import arcpy
 import os

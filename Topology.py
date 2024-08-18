@@ -1,5 +1,9 @@
+#Author: Sagar Chougule / sagar4gis@gmail.com 
+
+
 import arcpy
 import os
+
 
 # Input variables
 input_dataset = arcpy.GetParameterAsText(0) #r"C:\MyProjects\MyProject.gdb\fds" - FeatureDataset

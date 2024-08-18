@@ -1,5 +1,5 @@
 #Count_Category_Features.py
-#Developer: Sagar Chougule ,Email:92chougulesagar@gmail.com
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 #Using this script we can get no of counts per category
 
 import arcpy

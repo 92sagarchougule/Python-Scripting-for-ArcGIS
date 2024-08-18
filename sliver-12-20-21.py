@@ -14,8 +14,8 @@
 #Define the Rule Action
 #Validate
 
-#AUTHOR
-#Sagar Chougule / 92chougulesagar@gmail.com
+
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 #KSRDPR University, Gadag
 
 #REVISION

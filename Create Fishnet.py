@@ -1,6 +1,6 @@
 # Tool Name : fishnet
 #Description:
-#Author:
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 
 import arcpy
 

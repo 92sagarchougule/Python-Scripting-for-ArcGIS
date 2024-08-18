@@ -1,5 +1,4 @@
-#Developer: Sagar Chougule
-#Contact : 92chougulesagar@gmail.com
+#Author: Sagar Chougule / sagar4gis@gmail.com 
 
 
 import arcpy

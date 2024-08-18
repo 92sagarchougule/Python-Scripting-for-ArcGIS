@@ -1,5 +1,7 @@
 #Developer: Sagar Chougule
 #Script for adding random values to shp column using update cursor
+#Author: Sagar Chougule / sagar4gis@gmail.com 
+
 
 import random
 import arcpy

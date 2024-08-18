@@ -1,3 +1,5 @@
+#Author: Sagar Chougule / sagar4gis@gmail.com 
+
 # Import the required modules
 import os
 import arcpy
